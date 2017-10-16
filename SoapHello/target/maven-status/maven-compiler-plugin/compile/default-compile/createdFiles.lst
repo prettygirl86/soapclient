@@ -1,0 +1,12 @@
+com\codenotfound\types\flightsearch\Flightinfo.class
+com\codenotfound\types\flightsearch\ObjectFactory.class
+com\codenotfound\ws\client\UserSoapClient.class
+com\codenotfound\ws\client\HelloWorldClient.class
+com\codenotfound\ws\client\ClientConfig.class
+com\codenotfound\types\flightsearch\package-info.class
+com\codenotfound\ws\client\ClientController.class
+com\codenotfound\types\flightsearch\Flight.class
+com\codenotfound\types\helloworld\Greeting.class
+com\codenotfound\types\helloworld\package-info.class
+com\codenotfound\ws\client\Application.class
+com\codenotfound\types\helloworld\Person.class
